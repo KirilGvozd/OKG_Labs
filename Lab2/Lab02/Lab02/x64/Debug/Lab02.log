@@ -1,0 +1,16 @@
+﻿  ChildView.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\Fourth_semestr\OKG\Labs\Lab2\Lab02\Lab02\ChildView.cpp(83,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Fourth_semestr\OKG\Labs\Lab2\Lab02\Lab02\ChildView.cpp(106,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Fourth_semestr\OKG\Labs\Lab2\Lab02\Lab02\ChildView.cpp(131,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Fourth_semestr\OKG\Labs\Lab2\Lab02\Lab02\ChildView.cpp(150,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CMatrix.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Lab02.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  LibChart2D.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  MainFrm.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Generating Code...
+  Lab02.vcxproj -> C:\Fourth_semestr\OKG\Labs\Lab2\Lab02\x64\Debug\Lab02.exe
